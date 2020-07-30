@@ -1,0 +1,1 @@
+This is Katja's first git project. YaaaaaaY!
